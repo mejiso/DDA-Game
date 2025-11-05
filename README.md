@@ -3,14 +3,14 @@ Dynamic Difficulty Adjustment Game Space Dodge Game
 
 # Parameters
 
-Adjusts Difficulty Based on Several Parameters:
+Game Parameters that Adjust Difficulty
 
 - Near Misses
 - Collisions/Hits
 - Movement
 
-Parameters that Adjust based on above
+Difficulty Parameters that Adjust based on Above
 
 - Meteor Fall speed
 - Meteor Spawn Interval
-- 
+
