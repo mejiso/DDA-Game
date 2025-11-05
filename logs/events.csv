@@ -177,3 +177,4 @@ ts,session_id,type,detail_json
 2025-11-05T16:59:11.343Z,20251105-165854-df51ff,powerup_spawn,"{""kind"": ""slowmo"", ""x"": 468}"
 2025-11-05T16:59:12.685Z,20251105-165854-df51ff,hit,"{""lives_after"": 1, ""difficulty"": 1.0}"
 2025-11-05T16:59:15.234Z,20251105-165854-df51ff,powerup_pickup,"{""kind"": ""slowmo""}"
+2025-11-05T17:09:32.186Z,20251105-170923-6a1fb3,powerup_spawn,"{""kind"": ""shield"", ""x"": 797}"
