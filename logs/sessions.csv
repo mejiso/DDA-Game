@@ -39,3 +39,5 @@ ts_start,ts_end,session_id,subject_id,protocol_version,notes,config_json,duratio
 ,2025-10-23T17:25:19.980Z,20251023-172412-1146b0,anon001,v0.3-rehab,SESSION_END,{},58.92,1.19,0,0,0,91,71
 2025-10-24T00:12:35.396Z,,20251024-001235-58dd6d,anon001,v0.3-rehab,,"{""pixel_scale"": 3, ""scanline_alpha"": 36, ""block_seconds"": 60, ""protocol"": ""v0.3-rehab"", ""dda"": {""diff_min"": 0.6, ""diff_max"": 3.0, ""diff_start"": 0.9}}",,,,,,,
 ,2025-10-24T00:13:17.642Z,20251024-001235-58dd6d,anon001,v0.3-rehab,SESSION_END,{},40.17,0.73,0,0,0,61,37
+2025-11-05T16:58:54.253Z,,20251105-165854-df51ff,anon001,v0.3-rehab,,"{""pixel_scale"": 3, ""scanline_alpha"": 36, ""block_seconds"": 60, ""protocol"": ""v0.3-rehab"", ""dda"": {""diff_min"": 0.6, ""diff_max"": 3.0, ""diff_start"": 0.9}}",,,,,,,
+,2025-11-05T16:59:16.962Z,20251105-165854-df51ff,anon001,v0.3-rehab,SESSION_END,{},22.54,0.69,1,0,0,25,8
